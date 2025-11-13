@@ -1,4 +1,4 @@
----
+sk-or-v1-4df...8c6---
 title: OpenRouter credentials
 description: Documentation for OpenRouter credentials. Use these credentials to authenticate OpenRouter in n8n, a workflow automation platform.
 contentType: [integration, reference]
