@@ -1,4 +1,4 @@
----
+AIzaSyCoUymXcNcUXcZvpC_kwahU8iavXU5qg44---
 title: Google Gemini(PaLM) credentials
 description: Documentation for the Google Gemini(PaLM) credentials. Use these credentials to authenticate Google Gemini and Google PaLM AI nodes in n8n, a workflow automation platform.
 contentType: [integration, reference]
