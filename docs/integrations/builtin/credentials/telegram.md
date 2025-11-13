@@ -1,4 +1,4 @@
----
+8598750147:AAHi2L7JQSoRrA0U7Goir0zI8QTscfinO7Y---
 title: Telegram credentials
 description: Documentation for Telegram credentials. Use these credentials to authenticate Telegram in n8n, a workflow automation platform.
 contentType: [integration, reference]
