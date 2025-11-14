@@ -1,4 +1,5 @@
----
+sturdy-gamma-478220-f6
+gen-lang-client-0357839032---
 title: YouTube node documentation
 description: Learn how to use the YouTube node in n8n. Follow technical documentation to integrate YouTube node into your workflows.
 contentType: [integration, reference]
